@@ -7,16 +7,16 @@ export class AppService {
     return [
       {
         title: 'Post 1',
-        content: 'Body 1',
+        content: 'Content 1',
         flair: 'Gameplay',
         domain: 'self.apexlegends',
         author: 'reservecrate',
-        score: 420,
+        score: 425,
       },
       {
         title: 'Post 2',
         content: 'Content 2',
-        flair: 'Gameplay',
+        flair: 'Discussion',
         domain: 'self.apexlegends',
         author: 'reservecrate',
         score: 303,
@@ -24,7 +24,7 @@ export class AppService {
       {
         title: 'Post 3',
         content: 'Content 3',
-        flair: 'Gameplay',
+        flair: 'Humor',
         domain: 'self.apexlegends',
         author: 'reservecrate',
         score: 504,
@@ -32,18 +32,18 @@ export class AppService {
       {
         title: 'Post 4',
         content: 'Content 4',
-        flair: 'Gameplay',
+        flair: 'Leak',
         domain: 'self.apexlegends',
-        author: 'reservecrate',
+        author: 'BreezeHash',
         score: 872,
       },
       {
-        title: 'Post gay 5',
+        title: 'Post 5',
         content: 'Content 5',
-        flair: 'Gameplay',
-        domain: 'self.apexlegends',
+        flair: 'Question',
+        domain: 'i.redd.it',
         author: 'reservecrate',
-        score: 69,
+        score: 63,
       },
     ];
   }
