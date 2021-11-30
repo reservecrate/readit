@@ -8,7 +8,7 @@ Describe the big picture of your changes here to communicate to the maintainers 
 
 <!-- ℹ️ Put an `X` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code. ℹ️ -->
 
- - [ ] I have read the [CONTRIBUTING](https://github.com/davidsaulrodriguez/readit/blob/master/CONTRIBUTING.md) doc
+- [ ] I have read the [CONTRIBUTING](https://github.com/davidsaulrodriguez/readit/blob/master/CONTRIBUTING.md) doc
 - [ ] I have read the [BRANCHING MODEL](https://github.com/davidsaulrodriguez/readit/blob/master/BRANCHINGMODEL.md) doc
 - [ ] Lint and unit tests pass locally with my changes
 - [ ] I have added tests that prove my fix is effective or that my feature works
