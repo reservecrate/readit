@@ -61,7 +61,7 @@ This project is equiped with a basic API setup using Mongoose. It is expected th
 - "@babel/plugin-syntax-jsx": "^7.16.0",
 - "@babel/preset-react": "^7.16.0",
 - "@babel/runtime": "^7.16.3",
-- "eslint": "^7.11.0",
+- "eslint": "^7.28.0",
 - "eslint-config-prettier": "^8.3.0",
 - "eslint-plugin-import": "^2.25.3",
 - "eslint-plugin-jest": "^24.7.0",
