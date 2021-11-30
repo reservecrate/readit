@@ -19,7 +19,6 @@ services:
 # Test against the most current version and latest supported LTS versions of NodeJS
 # Current versions move too quickly, so we don't bother to support these releases.
 node_js:
-  - 16
   - 14
   - 12
 
